@@ -30,6 +30,7 @@ If the option Open Here in VS Code hide in the left shift, **will it be better**
 
 {: .box-note}
 **Code Here:**
+
 **Save as the .reg file. And `Run as Admin account`**
 {: .box-note}
 ~~~
@@ -95,6 +96,7 @@ Go into the Key: `Open Here In VS Code`, add a new String value and name it `Has
 ![IMG](/img/2019-08-10-Right-Click-and-Open-The-Folder-With-VSCODE/IMG6.png){: .center-block :}
 
 ### What about the Menu `Create New file`, `Right Click the Folder Items`, `Right Click the Items` ?
+| :---------------------------- |:----------------------------------------------------------------- |
 | Create New file               |HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers |
 | Right Click the Items         |HKEY_CLASSES_ROOT\\*\shellex\ContextMenuHandlers                   |
 | Right Click the Folder Items  |HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers            |
