@@ -5,8 +5,9 @@ subtitle: Subtitle here.
 image: /img/2019-08-04_23.18.15.jpg
 tags: [test]
 bigimg: /img/2019-08-04_23.18.15.jpg
-gh-repo: CreatorZZY/CreatorZZY.github.io
-gh-badge: [star, fork, follow]
+gh-repo: CreatorZZY
+gh-badge: [follow]
+comments: true
 ---
 
 ###This is my first post and a photo, how exciting!
