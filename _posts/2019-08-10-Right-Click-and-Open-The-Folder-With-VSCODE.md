@@ -95,7 +95,8 @@ If you want to run in admin account?
 Go into the Key: `Open Here In VS Code`, add a new String value and name it `HasLUAShield`.
 ![IMG](/img/2019-08-10-Right-Click-and-Open-The-Folder-With-VSCODE/IMG6.png){: .center-block :}
 
-### What about the Menu `Create New file`, `Right Click the Folder Items`, `Right Click the Items` ?
+### What about the Menu `Create New file`, `Right Click the Folder Items`, `Right Click the Items` ?  
+| TO DO                         | Key Postion                                                        |
 | :---------------------------- | :----------------------------------------------------------------- |
 | Create New file               | HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers |
 | Right Click the Items         | HKEY_CLASSES_ROOT\\*\shellex\ContextMenuHandlers                   |
