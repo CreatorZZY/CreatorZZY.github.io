@@ -2,9 +2,9 @@
 layout: post
 title: Right Click and Open The Folder With VSCODE.
 subtitle: How to Create Your Right Click Menu in Windows10？
-image: /img/2019-08-04_23.18.15.jpg
+#image: /img/2019-08-04_23.18.15.jpg
 tags: [Win10]
-bigimg: /img/2019-08-04_23.18.15.jpg
+bigimg: /img/2019-08-10_18.jpg
 gh-repo: CreatorZZY
 gh-badge: [follow]
 comments: true
