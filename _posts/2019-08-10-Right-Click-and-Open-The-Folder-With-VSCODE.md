@@ -30,8 +30,8 @@ If the option Open Here in VS Code hide in the left shift, **will it be better**
 
 {: .box-note}
 **Code Here:**
-{: .box-note}
 **Save as the .reg file. And `Run as Admin account`**
+{: .box-note}
 ~~~
 Windows Registry Editor Version 5.00
 
@@ -48,7 +48,9 @@ Windows Registry Editor Version 5.00
 #### First Step
 
 Open the `regedit` and locate the postion `HKEY_CLASSES_ROOT\Directory\Background\shell\`.
-Create a new Key under the `shell`. The name of the Key is random if you like. As the example, I named it `Open Here In VS Code`
+
+Create a new Key under the `shell`. The name of the Key is random if you like. As the example, I named it `Open Here In VS Code`.
+
 Create a new Key under the `Open Here In VS Code` with the name `command`.
 
 ![IMG](/img/2019-08-10-Right-Click-and-Open-The-Folder-With-VSCODE/IMG2.png){: .center-block :}
@@ -61,6 +63,7 @@ Go into the Key: `Open Here In VS Code` and **Modify** the Default Data: `Open H
 #### Third Step
 
 Go into the Key: `command` and **Modify** the Default Data: `Program File Path\Code.exe %V`.
+
 `%V` means that where you are. 
 
 Now, you can try to right click where you want. 
@@ -71,12 +74,15 @@ Now, you can try to right click where you want.
 #### Fourth Step
 
 Go into the Key: `Open Here In VS Code`, add a new String value and name it `Extended`.
+
 Now, It just appear when you press left shift.
 
 #### Fifth Step
 
 How to ADD ICON to the option?
+
 Go into the Key: `Open Here In VS Code`, add a new String value and name it `Icon`.
+
 **Modify** the Data: `ICON File Path\ico.ico`.
 ![IMG](/img/2019-08-10-Right-Click-and-Open-The-Folder-With-VSCODE/IMG5.png){: .center-block :}
 
@@ -88,7 +94,7 @@ If you want to run in admin account?
 Go into the Key: `Open Here In VS Code`, add a new String value and name it `HasLUAShield`.
 ![IMG](/img/2019-08-10-Right-Click-and-Open-The-Folder-With-VSCODE/IMG6.png){: .center-block :}
 
-### What about the Menu `Create New file` `Right Click the Folder Items` `Right Click the Items` ?
+### What about the Menu `Create New file`, `Right Click the Folder Items`, `Right Click the Items` ?
 | Create New file               |HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers |
 | Right Click the Items         |HKEY_CLASSES_ROOT\\*\shellex\ContextMenuHandlers                   |
 | Right Click the Folder Items  |HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers            |
