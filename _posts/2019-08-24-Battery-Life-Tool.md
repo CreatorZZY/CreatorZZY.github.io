@@ -17,6 +17,20 @@ comments: true
 
 [BatteryLifeTool.exe(x86)](https://raw.githubusercontent.com/CreatorZZY/BatteryLifeTool/master/BatteryLifeTool.exe)
 
+## Configuration settings
+
+```json
+{
+    "version": "1.0",
+    // 90%
+    "MaxBatteryLevelPercent": "90",
+    // 15%
+    "MinBatteryLevelPercent": "15",
+    // Scan Interval. 1000 means 1 second.
+    "ScanInterval": "30000"
+}
+```
+
 ## Background 
 
 Lenovo computers have such a feature: Maintain the powerlevel at 55% to 60%, known as the `Power conservation mode`.
