@@ -12,6 +12,10 @@ comments: true
 
 # BatteryLifeTool
 *Time: 8-24-19 12:36:36*
+## Download
+[Battery Life Tool.msi(x86)](https://raw.githubusercontent.com/CreatorZZY/BatteryLifeTool/master/Battery%20Life%20Tool.msi)
+[BatteryLifeTool.exe(x86)](https://raw.githubusercontent.com/CreatorZZY/BatteryLifeTool/master/BatteryLifeTool.exe)
+
 ## Background 
 
 Lenovo computers have such a feature: Maintain the powerlevel at 55% to 60%, known as the `Power conservation mode`.
