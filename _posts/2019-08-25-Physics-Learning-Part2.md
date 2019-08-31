@@ -4,7 +4,7 @@ title: Physics Learning Part 2
 subtitle: Study Note.
 #image: /img/2019-08-04_23.18.15.jpg
 tags: [Physics]
-bigimg: /img/Physice.jpg
+bigimg: /img/Physics.jpg
 gh-repo: CreatorZZY
 gh-badge: [follow]
 comments: true
