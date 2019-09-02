@@ -19,7 +19,8 @@ comments: true
 
 # 书本
 ***
-《物理学》东南大学等7所工科院校联合编写，高等教育出版社。
+> 《物理学》第六版，东南大学等7所工科院校联合编写，马文蔚等改编，高等教育出版社。
+
 ![textbook](/img/2019-08-25-Physics-Learning-Catalogue/Physics_textbook.png){: .center-block :}
 
 # 文章目的
