@@ -17,11 +17,13 @@ comments: true
 # 书本
 《物理学》东南大学等7所工科院校联合编写，高等教育出版社。
 ![textbook](/img/2019-08-25-Physics-Learning-Catalogue/Physics_textbook.png){: .center-block :}
+
 ***
 
 # 文章目的
 这里的学习笔记是记录在看书过程中遇到的一些**思维性的障碍**和**自己对书本知识的一些理解**。
 仅供参考，也欢迎指出错误。
+
 ***
 
 # 文章的目录
