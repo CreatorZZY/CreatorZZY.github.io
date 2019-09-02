@@ -34,9 +34,9 @@ comments: true
     * 质点力学
         * [Part 1](https://creatorzzy.github.io/2019-08-25-Physics-Learning-Part1/)
         * [Part 2](https://creatorzzy.github.io/2019-08-25-Physics-Learning-Part2/)
-        * [Part 3](https://creatorzzy.github.io/2019-08-25-Physics-Learning-Part3/)
+        * [Part 3](https://creatorzzy.github.io/2019-08-26-Physics-Learning-Part3/)
     * 刚体力学
-        * [Part 4](https://creatorzzy.github.io/2019-08-25-Physics-Learning-Part4/)
+        * [Part 4](https://creatorzzy.github.io/2019-09-01-Physics-Learning-Part4/)
 * 经典电磁学
 * 波理论
 * 光学
