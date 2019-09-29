@@ -4,7 +4,7 @@ title: MS Homework 2
 subtitle: Homework
 #image: /img/2019-08-04_23.18.15.jpg
 tags: [Homework]
-bigimg: /img/2019-09-13-BoostNote-Express-Program-Story.jpg
+bigimg: /img/2019-08-25-Physics-Learning-Catalogue/Physics_textbook.png
 gh-repo: CreatorZZY
 gh-badge: [follow]
 comments: true
