@@ -73,14 +73,21 @@ def main():
     Female = [2.1, 3.3, 4.5, 5.5, 6.7, 16.4, 12.5, 19.9, 15.2]
     plt.plot(age, Male, "r--")
     plt.plot(age, Female, "b--")
+    plt.title('Title')
+    plt.xlabel('Age')
+    plt.ylabel('Per')
     plt.savefig("3.png", format='png')
     plt.clf()
     Male_log = [np.log(x) for x in Male]
     Female_log = [np.log(x) for x in Female]
     plt.plot(age, Male_log, "r--")
     plt.plot(age, Female_log, "b--")
+    plt.title('Title')
+    plt.xlabel('Age')
+    plt.ylabel('Per_log')
     plt.savefig("4.png", format='png')
 
 if __name__ == "__main__":
     main()
 ```
+说明了，率是随着年龄的增长是呈现出一种指数增长，而并非单纯的线性增长。
