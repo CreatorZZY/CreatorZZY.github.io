@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Physics Learning Note Catalogue
-subtitle: Study Note Catalogue.
+title: BoostNote Express Program Story
+subtitle: Story.
 #image: /img/2019-08-04_23.18.15.jpg
-tags: [Physics]
+tags: [C++,Win10]
 bigimg: /img/2019-09-13-BoostNote-Express-Program-Story.jpg
 gh-repo: CreatorZZY
 gh-badge: [follow]
