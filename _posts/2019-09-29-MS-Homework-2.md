@@ -33,8 +33,6 @@ import pandas as pd
 def main():
     data_ = [133, 193, 190, 111, 83, 34, 43, 16, 9, 9, 9, 9]
     # 我实在顶不顺了,复杂度高就高吧
-    # 生成原始数据（我没办法了，直接像Excel的那种打印表我没用过，也查不到他的函数表达式，我已经将Pnadas、numpy搜了一遍了）
-    # 这样的小循环我就不拿C++写了……
     data = list()
     for i in range(12):
         val = data_[i]
@@ -70,7 +68,6 @@ import numpy as np
 import pandas as pd
 
 def main():
-    # 接触Python的统计学应用没多久，有点理解不了他们的逻辑，所以我还是按照C的玩法写吧。
     age = [x for x in range(40, 81, 5)]
     Male = [4.4, 7.2, 7.3, 6.9, 19.3, 50.2, 68.5, 86.2, 97.0]
     Female = [2.1, 3.3, 4.5, 5.5, 6.7, 16.4, 12.5, 19.9, 15.2]
