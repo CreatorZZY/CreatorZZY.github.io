@@ -20,7 +20,7 @@ comments: true
 @Author: George Zhao
 @Date: 2019-09-29 21:21:18
 @LastEditors: George Zhao
-@LastEditTime: 2019-09-29 22:13:53
+@LastEditTime: 2019-09-29 21:33:53
 @Description: Homework2 - 2.
 @Email: 2018221138@email.szu.edu.cn
 @Company: SZU
@@ -50,12 +50,13 @@ if __name__ == "__main__":
     main()
 
 ```
+![2](/img/2.png)
 
 # 第二道作图题
 ```python
 '''
 @Author: George Zhao
-@Date: 2019-09-29 21:21:18
+@Date: 2019-09-29 23:21:18
 @LastEditors: George Zhao
 @LastEditTime: 2019-09-29 23:33:10
 @Description: Homework2 - 3.
@@ -90,4 +91,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+![3](/img/3.png)
+
+![4](/img/4.png)
 说明了，率是随着年龄的增长是呈现出一种指数增长，而并非单纯的线性增长。
