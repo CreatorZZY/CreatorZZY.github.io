@@ -4,7 +4,7 @@ title: MS Homework 2
 subtitle: Homework
 #image: /img/2019-08-04_23.18.15.jpg
 tags: [Homework]
-bigimg: /img/path.jpg
+bigimg: /img/2019-09-29-MS-Homework-2/1.jpg
 gh-repo: CreatorZZY
 gh-badge: [follow]
 comments: true

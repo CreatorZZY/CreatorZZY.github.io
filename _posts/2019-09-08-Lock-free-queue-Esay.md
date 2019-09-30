@@ -4,7 +4,7 @@ title: Lock free queue Esay
 subtitle: Esay list.
 #image: /img/2019-08-04_23.18.15.jpg
 tags: [C++]
-bigimg: /img/2019-08-25-Physics-Learning-Catalogue/Physics_textbook.png
+bigimg: /img/2019-09-08-Lock-free-queue-Esay/1.jpg
 gh-repo: CreatorZZY
 gh-badge: [follow]
 comments: true
