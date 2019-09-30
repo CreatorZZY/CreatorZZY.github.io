@@ -4,7 +4,7 @@ title: BoostNote Express Program Story
 subtitle: Story.
 #image: /img/2019-08-04_23.18.15.jpg
 tags: [C++,Win10]
-bigimg: /img/2019-08-25-Physics-Learning-Catalogue/Physics_textbook.png
+bigimg: /img/path.jpg
 gh-repo: CreatorZZY
 gh-badge: [follow]
 comments: true
