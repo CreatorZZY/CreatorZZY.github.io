@@ -38,6 +38,7 @@ comments: true
     * 刚体力学
         * [Part 4](https://creatorzzy.github.io/2019-09-01-Physics-Learning-Part4/)
 * 经典电磁学
+    * [Part 5~8](https://creatorzzy.github.io/2019-09-01-Physics-Learning-Part5/)
 * 波理论
 * 光学
     * 波动光学
